@@ -8,3 +8,8 @@
 <a href='https://github.com/WenjieDu/Time-Series-Database'><img src="https://github.com/WenjieDu/Time_Series_Database/blob/f3a838e2d4a4640d32754e5729a8969269eaf9d0/docs/figs/TSDB%20logo.svg?sanitize=true" align='right' width='200'/></a>
 
 💬 I am open to questions related to my work and always try my best to help others. If you have questions for discussion or have interests in collaboration, please feel free to drop me an email or PM me on <a alt='LinkedIn' href='https://www.linkedin.com/in/wenjie-du/'><img align='center' src='https://img.shields.io/badge/LinkedIn-Wenjie--Du-blue?style=social&logo=linkedin'></a> / <a alt='WeChat' href='https://github.com/PyPOTS/PyPOTS/blob/7e4c0f3acc047c62e46ef5b48d3e5b1d0f5ed236/docs/figs/Wechat_WDU.jpg'><img align='center' src='https://img.shields.io/badge/WeChat-__W__DU__-blue?style=social&logo=wechat'></a> ! 😃 
+
+<details>
+<summary></summary>
+<img align='left' src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+May+2022&edge_flat=false'>
+</details>
