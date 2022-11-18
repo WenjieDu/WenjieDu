@@ -1,4 +1,4 @@
-<img align='right' width=260 src='https://github-readme-stats.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
+<img align='right' width=260 src='https://github-readme-stats.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7&card_width=300'>
 
 👋 Hi, I'm Wenjie Du (杜文杰 in Chinese). My research majors in modeling time series with machine learning, <ins>especially partially-observed time series (POTS), namely, incomplete time series with missing values, A.K.A. irregularly-sampled time series</ins>. I strongly advocate **open-source and reproducible research**, and I always devote myself to building my work into valuable real-world applications.
 
