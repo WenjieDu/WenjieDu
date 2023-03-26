@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/GoogleScholar-Wenjie_Du-lightblue?style=social&logo=googlescholar)](https://scholar.google.com/citations?user=j9qvUg0AAAAJ&hl=en) &ensp;
 [![](https://img.shields.io/badge/LinkedIn-Wenjie--Du-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/wenjie-du) &ensp;
-[![](https://img.shields.io/badge/WeChat-__W__DU__-blue?style=social&logo=wechat)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/Wechat_WDU.jpg) &ensp;
+[![](https://img.shields.io/badge/WeChat-__W__DU__-blue?style=social&logo=wechat)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/contacts/Wechat_WDU.jpg) &ensp;
 [![](https://img.shields.io/badge/Gmail-wenjay.du-grey?style=social&logo=gmail)](mailto:wenjay.du@gmail.com) &ensp;
 [![](https://img.shields.io/badge/Slack-PyPOTS-grey?logo=slack&labelColor=4A154B&color=62BCE5&style=social)](https://pypots-dev.slack.com) &ensp;
 
