@@ -1,0 +1,41 @@
+name: Build Citation Badges
+
+on:
+    schedule:
+        # https://crontab.guru. Run everyday at 0:23AM UTC, i.e. 08:23AM Beijing, i.e. 08:23PM Montreal (summer time)
+        - cron: "23 0 * * *"
+
+jobs:
+    test:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v3
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.9"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install https://github.com/WenjieDu/PyPOTS/archive/main.zip
+
+            - name: Fetch the test environment details
+              run: |
+                  which python
+                  pip list
+
+            - name: Fetch citations and build badges
+              run: |
+                APPLY_MIRROR_SITE=True python scripts/gene_google_scholar_badges.py
+
+            - name: Commit and push
+              run: |
+                git diff
+                git config --global user.email "readme-bot@example.com"
+                git config --global user.name "README-bot"
+                git add -A
+                git commit -m "Updated README.md automatically" || exit 0
+                git push
