@@ -20,12 +20,12 @@ It's my honor if you could join the research journey with me and if my work coul
     <img src='https://raw.githubusercontent.com/WenjieDu/PyPOTS/main/docs/_static/figs/PyPOTS_logo.jpg' width='206' align='left' alt='PyPOTS logo'>
 </a>
 <a href='https://github.com/WenjieDu/BrewedPOTS'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/BrewedPOTS/main/figs/BrewedPOTS_logo.jpg" align='right' width='140' alt='BrewedPOTS logo'>
+    <img src="https://raw.githubusercontent.com/WenjieDu/BrewedPOTS/main/figs/BrewedPOTS_logo.jpg" align='right' width='150' alt='BrewedPOTS logo'>
 </a>
 
 🤔 POTS is ubiquitous in real-world and is vital to AI landing in the industry. However, 
 it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python. 
-Hence, I'm leading some projects on GitHub ([PyPOTS](https://github.com/WenjieDu/PyPOTS), 
+Hence, I'm leading some projects on GitHub (e.g. [PyPOTS](https://github.com/WenjieDu/PyPOTS), 
 [BrewedPOTS](https://github.com/WenjieDu/BrewedPOTS), [TSDB](https://github.com/WenjieDu/TSDB)) to facilitate our
 researchers and engineers' work related to POTS. If your interests lie in this field, my work may be useful to you and
 ***I sincerely invite you to follow me on GitHub and join [our community](https://github.com/WenjieDu/PyPOTS#-community)🤝.*** 
@@ -38,6 +38,8 @@ Stars on our repo🌟 are also very welcome of course if you like what we're try
 💬 I'm open to questions related to my research and always try my best to help others. 
 I love questioning myself and I never stop. If you have questions for discussion or have interests in collaboration, 
 please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (contact info is at the top) 😃
+
+❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
 
 😊 Thank you for reading my profile.
 
