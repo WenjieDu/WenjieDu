@@ -13,23 +13,25 @@
 especially partially-observed time series (POTS), namely, incomplete time series with missing values,
 A.K.A. irregularly-sampled time series. I strongly advocate open-source and reproducible research, 
 and I always devote myself to building my work into valuable real-world applications.
-My research goal is to model this non-trivial and ever-changing world with machine learning 
-to make it a better place for everyone. It's my honor if my work could help you in any way.
+Unix philosophy *"Do one thing and do it well"* is also my life philosophy. My research goal is to model this 
+non-trivial and kaleidoscopic world with machine learning to make it a better place for everyone. 
+It's my honor if my work could help you in any way.
 
 <a href='https://github.com/WenjieDu/PyPOTS'>
     <img src='https://raw.githubusercontent.com/WenjieDu/PyPOTS/main/docs/_static/figs/PyPOTS_logo.jpg' width='180' align='left' alt='PyPOTS logo'>
 </a>
 <a href='https://github.com/WenjieDu/BrewPOTS'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='145' alt='BrewPOTS logo'>
+    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='150' alt='BrewPOTS logo'>
 </a>
 
 🤔 POTS is ubiquitous in real-world and is vital to AI landing in the industry. However, 
-it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python. 
-Hence, I'm leading some projects on GitHub (e.g. [PyPOTS](https://github.com/WenjieDu/PyPOTS), 
-[BrewPOTS](https://github.com/WenjieDu/BrewPOTS), [TSDB](https://github.com/WenjieDu/TSDB)) to facilitate our
-researchers and engineers' work related to POTS. If your interests lie in this field, my work may be useful to you and
+it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python.
+Hence, I'm leading <ins>**the project PyPOTS**</ins> on GitHub (including the repos [PyPOTS](https://github.com/WenjieDu/PyPOTS),
+[BrewPOTS](https://github.com/WenjieDu/BrewPOTS), [TSDB](https://github.com/WenjieDu/TSDB),
+and [PyCorruptor](https://github.com/WenjieDu/PyCorruptor)) to facilitate our researchers and engineers' work
+related to POTS. If your interests lie in this field, my work may be useful to you and
 ***I sincerely invite you to follow me on GitHub and join [our community](https://github.com/WenjieDu/PyPOTS#-community)🤝.*** 
-Stars on our repo🌟 are also very welcome of course if you like what we're trying to achieve with PyPOTS.
+Stars on our repos🌟 are also very welcome of course if you like what we're trying to achieve with PyPOTS.
 
 <a href='https://github.com/WenjieDu/TSDB'>
     <img src="https://raw.githubusercontent.com/WenjieDu/TSDB/main/docs/_static/figs/TSDB_logo.svg?sanitize=true" align='right' width='180' alt='TSDB logo'>
