@@ -13,14 +13,14 @@
 especially partially-observed time series (POTS), namely, incomplete time series with missing values,
 A.K.A. irregularly-sampled time series. I strongly advocate open-source and reproducible research, 
 and I always devote myself to building my work into valuable real-world applications.
-My research goal is to model this non-trivial and ever-changing world with machine learning.
-It's my honor if you could join the research journey with me and if my work could help you in any way.
+My research goal is to model this non-trivial and ever-changing world with machine learning 
+to make it a better place for everyone. It's my honor if my work could help you in any way.
 
 <a href='https://github.com/WenjieDu/PyPOTS'>
-    <img src='https://raw.githubusercontent.com/WenjieDu/PyPOTS/main/docs/_static/figs/PyPOTS_logo.jpg' width='206' align='left' alt='PyPOTS logo'>
+    <img src='https://raw.githubusercontent.com/WenjieDu/PyPOTS/main/docs/_static/figs/PyPOTS_logo.jpg' width='180' align='left' alt='PyPOTS logo'>
 </a>
 <a href='https://github.com/WenjieDu/BrewPOTS'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='150' alt='BrewPOTS logo'>
+    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='145' alt='BrewPOTS logo'>
 </a>
 
 🤔 POTS is ubiquitous in real-world and is vital to AI landing in the industry. However, 
@@ -32,7 +32,7 @@ researchers and engineers' work related to POTS. If your interests lie in this f
 Stars on our repo🌟 are also very welcome of course if you like what we're trying to achieve with PyPOTS.
 
 <a href='https://github.com/WenjieDu/TSDB'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/TSDB/main/docs/_static/figs/TSDB_logo.svg?sanitize=true" align='right' width='200' alt='TSDB logo'>
+    <img src="https://raw.githubusercontent.com/WenjieDu/TSDB/main/docs/_static/figs/TSDB_logo.svg?sanitize=true" align='right' width='180' alt='TSDB logo'>
 </a>
 
 💬 I'm open to questions related to my research and always try my best to help others. 
