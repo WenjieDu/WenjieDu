@@ -1,4 +1,5 @@
 [![](https://img.shields.io/badge/GoogleScholar-Wenjie_Du-lightblue?style=social&logo=googlescholar)](https://scholar.google.com/citations?user=j9qvUg0AAAAJ&hl=en) &ensp;
+[![](https://img.shields.io/badge/arXiv-du__w__1-B31B1B?style=social&logo=arxiv)](https://arxiv.org/a/du_w_1.html) &ensp;
 [![](https://img.shields.io/badge/LinkedIn-Wenjie--Du-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/wenjie-du) &ensp;
 [![](https://img.shields.io/badge/WeChat-__W__DU__-blue?style=social&logo=wechat)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/contacts/Wechat_WDU.jpg) &ensp;
 [![](https://img.shields.io/badge/Gmail-wenjay.du-grey?style=social&logo=gmail)](mailto:wenjay.du@gmail.com) &ensp;
@@ -21,7 +22,7 @@ It's my honor if my work could help you in any way.
     <img src='https://raw.githubusercontent.com/WenjieDu/PyPOTS/main/docs/_static/figs/PyPOTS_logo.jpg' width='180' align='left' alt='PyPOTS logo'>
 </a>
 <a href='https://github.com/WenjieDu/BrewPOTS'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='150' alt='BrewPOTS logo'>
+    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='145' alt='BrewPOTS logo'>
 </a>
 
 🤔 POTS is ubiquitous in real-world and is vital to AI landing in the industry. However, 
