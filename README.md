@@ -43,6 +43,7 @@ I love questioning myself and I never stop. If you have questions for discussion
 please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (contact info is at the top) 😃
 
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
+And I assure you that every penny from sponsorships will be used to do impactful open-source research.
 
 😊 Thank you for reading my profile.
 
