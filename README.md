@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Wenjie--Du-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/wenjie-du) &ensp;
 [![](https://img.shields.io/badge/WeChat-__W__DU__-blue?style=social&logo=wechat)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/contacts/Wechat_WDU.jpg) &ensp;
 [![](https://img.shields.io/badge/Gmail-wenjay.du-grey?style=social&logo=gmail)](mailto:wenjay.du@gmail.com) &ensp;
+[![](https://img.shields.io/badge/Zoom-schedule_it!-grey?style=social&logo=zoom)](https://calendly.com/wenjiedu) &ensp;
 [![](https://img.shields.io/badge/PyPOTS-community-grey?labelColor=4A154B&color=62BCE5&style=social)](https://github.com/WenjieDu/PyPOTS#-community)
 
 
