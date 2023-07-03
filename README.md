@@ -26,7 +26,7 @@ It's my honor if my work could help you in any way.
     <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='145' alt='BrewPOTS logo'>
 </a>
 
-🤔 POTS is ubiquitous in real-world and is vital to AI landing in the industry. However, 
+🤔 POTS is ubiquitous in the real world and is vital to AI landing in the industry. However, 
 it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python.
 Hence, I'm leading <ins>**the project PyPOTS**</ins> on GitHub (including the repos [PyPOTS](https://github.com/WenjieDu/PyPOTS),
 [BrewPOTS](https://github.com/WenjieDu/BrewPOTS), [TSDB](https://github.com/WenjieDu/TSDB),
