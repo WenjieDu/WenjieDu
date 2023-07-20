@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Gmail-wenjay.du-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:wenjay.du@gmail.com) &ensp;
 [![](https://img.shields.io/badge/Medium-WenjieDu-grey?style=flat-square&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@WenjieDu) &ensp;
 [![](https://img.shields.io/badge/Zoom-schedule_it!-grey?style=flat-square&labelColor=2D8CFF&logo=zoom&logoColor=white)](https://calendly.com/wenjiedu) &ensp;
-[![](https://img.shields.io/badge/Slack-PyPOTS_community-grey?&style=flat-square&labelColor=4A154B&logo=slack&logoColor=white)](https://github.com/WenjieDu/PyPOTS#-community)
+[![](https://img.shields.io/badge/Slack-PyPOTS_community-grey?&style=flat-square&labelColor=4A154B&logo=slack&logoColor=white)](https://join.slack.com/t/pypots-org/shared_invite/zt-1gq6ufwsi-p0OZdW~e9UW_IA4_f1OfxA)
 
 
 <a href='https://github.com/WenjieDu'>
