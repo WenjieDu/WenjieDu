@@ -9,7 +9,7 @@
 
 
 <a href='https://github.com/WenjieDu'>
-    <img align='right' width='28%' src='https://github-readme-stats.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
+    <img align='right' width='30%' src='https://github-readme-stats.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
 </a>
 
 👋 Hi, I'm Wenjie Du (杜文杰 in Chinese). My research majors in modeling time series with machine learning,
@@ -21,10 +21,10 @@ My research goal is to model this non-trivial and kaleidoscopic world with machi
 It's my honor if my work could help you in any way.
 
 <a href='https://github.com/WenjieDu/PyPOTS'>
-    <img src='https://raw.githubusercontent.com/WenjieDu/PyPOTS/main/docs/_static/figs/PyPOTS_logo.jpg' width='18%' align='left' alt='PyPOTS logo'>
+    <img src='https://pypots.com/figs/pypots_logos/PyPOTS_logo_FFBG.svg?sanitize=true' width='20%' align='left' alt='PyPOTS logo'>
 </a>
 <a href='https://github.com/WenjieDu/BrewPOTS'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/BrewPOTS/main/figs/BrewPOTS_logo.jpg" align='right' width='15%' alt='BrewPOTS logo'>
+    <img src="https://pypots.com/figs/pypots_logos/BrewPOTS_logo_FFBG.svg?sanitize=true" align='right' width='15%' alt='BrewPOTS logo'>
 </a>
 
 🤔 POTS is ubiquitous in the real world and is vital to AI landing in the industry. However, 
@@ -37,7 +37,7 @@ related to POTS. If your interests lie in this field, my work may be useful to y
 Stars on our repos🌟 are also very welcome of course if you like what we're trying to achieve with PyPOTS.
 
 <a href='https://github.com/WenjieDu/TSDB'>
-    <img src="https://raw.githubusercontent.com/WenjieDu/TSDB/main/docs/_static/figs/TSDB_logo.svg?sanitize=true" align='right' width='18%' alt='TSDB logo'>
+    <img src="https://pypots.com/figs/pypots_logos/TSDB_logo_FFBG.svg?sanitize=true" align='right' width='20%' alt='TSDB logo'>
 </a>
 
 💬 I'm open to questions related to my research and always try my best to help others.
