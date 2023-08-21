@@ -29,10 +29,10 @@ It's my honor if my work could help you in any way.
 
 🤔 POTS is ubiquitous in the real world and is vital to AI landing in the industry. However, 
 it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python.
-Hence, I'm leading <ins>**the project PyPOTS**</ins> on GitHub (including the repos [PyPOTS](https://github.com/WenjieDu/PyPOTS),
+Hence, we're leading <ins>**the project PyPOTS**</ins> on GitHub (including the repos [PyPOTS](https://github.com/WenjieDu/PyPOTS),
 [BrewPOTS](https://github.com/WenjieDu/BrewPOTS), [TSDB](https://github.com/WenjieDu/TSDB),
 and [PyCorruptor](https://github.com/WenjieDu/PyCorruptor)) to facilitate our researchers and engineers' work
-related to POTS. If your interests lie in this field, my work may be useful to you and
+related to POTS. If your interests lie in this field, our work may be useful to you and
 ***I sincerely invite you to follow me on GitHub and join [our community](https://github.com/WenjieDu/PyPOTS#-community)🤝.*** 
 Stars on our repos🌟 are also very welcome of course if you like what we're trying to achieve with PyPOTS.
 
@@ -45,7 +45,7 @@ I love questioning myself and I never stop. If you have questions for discussion
 please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (contact info is at the top) 😃
 
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
-And I assure you that every penny from sponsorships will be used to support impactful open-source research.
+And I assure you that every penny from sponsorships will be used to support impactful open-science research.
 
 😊 Thank you for reading my profile.
 
