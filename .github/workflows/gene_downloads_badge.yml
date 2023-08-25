@@ -1,0 +1,37 @@
+name: Build Downloads Badge
+
+on:
+    schedule:
+        # https://crontab.guru.
+        - cron: "0 4 * * *"
+
+jobs:
+    build-badges:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v3
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.10"
+
+            - name: Fetch the environment details
+              run: |
+                  which python
+                  python -V
+                  pip list
+
+            - name: Fetch citations and build badges
+              run: |
+                python scripts/gene_pypots_downloads_badge.py
+
+            - name: Commit and push
+              run: |
+                git diff
+                git config --global user.name "WenjieDu"
+                git config --global user.email "wenjay.du@gmail.com"
+                git add -A
+                git commit -m "docs: update pypots pypi downloads badge automatically;" || exit 0
+                git push
