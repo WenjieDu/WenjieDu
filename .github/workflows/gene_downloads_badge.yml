@@ -41,7 +41,8 @@ jobs:
                 git diff
                 git config --global user.name "WenjieDu"
                 git config --global user.email "wenjay.du@gmail.com"
-                git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY
+                git remote remove origin
+                git remote add origin https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY
                 git add -A
                 git commit -m "docs: update pypots pypi downloads badge automatically;" || exit 0
                 git push
