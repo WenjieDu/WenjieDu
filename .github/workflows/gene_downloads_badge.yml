@@ -9,6 +9,9 @@ on:
         # https://crontab.guru.
         - cron: "0 4 * * *"
 
+permissions:
+  contents: write
+
 jobs:
     build-badges:
         runs-on: ubuntu-latest
@@ -41,8 +44,7 @@ jobs:
                 git diff
                 git config --global user.name "WenjieDu"
                 git config --global user.email "wenjay.du@gmail.com"
-                git remote remove origin
-                git remote add origin https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY
-                git add figs/projects/pypots_downloads.json
-                git commit -m "docs: update pypots pypi downloads badge automatically;" || exit 0
-                git push --set-upstream origin main
+                git add figs/projects/pypots_downloads.json                
+                git commit -m "docs: automatically update pypots pypi downloads badge;" || exit 0 
+                remote_repo="https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY"
+                git push "${remote_repo}" HEAD:"main"
