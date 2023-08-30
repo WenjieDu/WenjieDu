@@ -37,14 +37,14 @@ jobs:
 
             - name: Fetch the downloads number and build badges
               run: |
-                python scripts/gene_pypots_downloads_badge.py
+                python scripts/gene_project_downloads_badge.py
 
             - name: Commit and push
               run: |
                 git diff
                 git config --global user.name "WenjieDu"
                 git config --global user.email "wenjay.du@gmail.com"
-                git add figs/projects/pypots_downloads.json                
-                git commit -m "docs: automatically update pypots pypi downloads badge;" || exit 0 
+                git add figs/projects/*_downloads.json                
+                git commit -m "docs: automatically update project badges of pypi downloads;" || exit 0 
                 remote_repo="https://${{ secrets.ACCESS_TOKEN }}@github.com/$GITHUB_REPOSITORY"
                 git push "${remote_repo}" HEAD:"main"
