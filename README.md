@@ -9,7 +9,7 @@
 
 
 <a href='https://github.com/WenjieDu'>
-    <img align='right' width='30%' src='https://github-readme-stats.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
+    <img align='right' width='30%' src='https://github-readme-stats-i2t55arsw-wenjiedu.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_rank=true&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7'>
 </a>
 
 👋 Hi, I'm Wenjie Du (杜文杰 in Chinese). My research majors in modeling time series with machine learning,
@@ -51,7 +51,9 @@ And I assure you that every penny from sponsorships will be used to support impa
 
 <details>
 <summary>🏠 Visits</summary>
-<img align='left' src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+May+2022&edge_flat=false'>
+<a href="https://github.com/WenjieDu" target="_blank">
+    <img align="left" alt="number of profile visits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+May+2022&edge_flat=false">
+</a>
 </details>
 
 ![](https://hit.yhype.me/github/profile?user_id=17807970)
