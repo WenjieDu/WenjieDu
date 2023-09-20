@@ -42,7 +42,8 @@ Stars on our repos🌟 are also very welcome of course if you like what we're tr
 
 💬 I'm open to questions related to my research and always try my best to help others.
 I love questioning myself and I never stop. If you have questions for discussion or have interests in collaboration,
-please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (contact info is at the top) 😃
+please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (<ins>**contact info is at the top**</ins>)😃.  
+**Note that I'm very glad to help review papers related to my research, but ONLY for open-source ones with readable code.**
 
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
