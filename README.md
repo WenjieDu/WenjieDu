@@ -20,25 +20,20 @@ Unix philosophy *"Do one thing and do it well"* is also my life philosophy, and 
 My research goal is to model this non-trivial and kaleidoscopic world with machine learning to make it a better place for everyone.
 It's my honor if my work could help you in any way.
 
-<a href='https://github.com/WenjieDu/PyPOTS'>
-    <img src='https://pypots.com/figs/pypots_logos/PyPOTS_logo_FFBG.svg?sanitize=true' width='20%' align='left' alt='PyPOTS logo'>
-</a>
-<a href='https://github.com/WenjieDu/BrewPOTS'>
-    <img src="https://pypots.com/figs/pypots_logos/BrewPOTS_logo_FFBG.svg?sanitize=true" align='right' width='15%' alt='BrewPOTS logo'>
-</a>
-
 🤔 POTS is ubiquitous in the real world and is vital to AI landing in the industry. However, 
 it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python.
 Hence, we're leading <ins>**the project PyPOTS**</ins> on GitHub (including the repos [PyPOTS](https://github.com/WenjieDu/PyPOTS),
 [BrewPOTS](https://github.com/WenjieDu/BrewPOTS), [TSDB](https://github.com/WenjieDu/TSDB),
-and [PyCorruptor](https://github.com/WenjieDu/PyCorruptor)) to facilitate our researchers and engineers' work
+and [PyGrinder](https://github.com/WenjieDu/PyGrinder)) to facilitate our researchers and engineers' work
 related to POTS. If your interests lie in this field, our work may be useful to you and
 ***I sincerely invite you to follow me on GitHub and join [our community](https://github.com/WenjieDu/PyPOTS#-community)🤝.*** 
 Stars on our repos🌟 are also very welcome of course if you like what we're trying to achieve with PyPOTS.
 
-<a href='https://github.com/WenjieDu/TSDB'>
-    <img src="https://pypots.com/figs/pypots_logos/TSDB_logo_FFBG.svg?sanitize=true" align='right' width='20%' alt='TSDB logo'>
+<p align="center">
+<a href="https://pypots.com">
+    <img src="https://pypots.com/figs/pypots_logos/PyPOTS_Ecosystem.jpg" width="80%"/>
 </a>
+</p>
 
 💬 I'm open to questions related to my research and always try my best to help others.
 I love questioning myself and I never stop. If you have questions for discussion or have interests in collaboration,
