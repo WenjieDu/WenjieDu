@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Slack-PyPOTS_community-grey?&style=flat-square&labelColor=4A154B&logo=slack&logoColor=white)](https://join.slack.com/t/pypots-org/shared_invite/zt-1gq6ufwsi-p0OZdW~e9UW_IA4_f1OfxA) &ensp;
 
 <a href='https://gitstar-ranking.com/WenjieDu' target="_blank">
-    <img align='right' width='40%' src='https://github-readme-stats-i2t55arsw-wenjiedu.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7&rank_icon=percentile&card_width=300&line_height=30'>
+    <img align='right' width='40%' src='https://github-readme-stats-wenjiedu.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7&rank_icon=percentile&card_width=300'>
 </a>
 
 👋 Hi, I'm Wenjie Du (杜文杰 in Chinese). My research majors in modeling time series with machine learning,
