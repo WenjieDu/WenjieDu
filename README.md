@@ -43,7 +43,7 @@ And I assure you that every penny from sponsorships will be used to support impa
 😊 Thank you for reading my profile. Feel free to contact me if you'd like to trigger discussions.
 
 
-<details>
+<details open>
 <summary>🏠 Visits</summary>
 <a href="https://github.com/WenjieDu" target="_blank">
     <img align="left" alt="number of profile visits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+May+2022&edge_flat=false">
