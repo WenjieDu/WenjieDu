@@ -36,6 +36,17 @@ I love questioning myself and I never stop. If you have questions for discussion
 please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (<ins>**contact info is at the top**</ins>) 😃
 You can follow me on Google Scholar and GitHub to get notified of our latest publications and open-source projects.
 **Note that I'm very glad to help review papers related to my research, but ONLY for open-source ones with readable code.**
+<details open>
+<summary>I served as a reviewer for 👇</summary>
+
+* [TKDD (ACM Transactions on Knowledge Discovery from Data)](https://dl.acm.org/journal/tkdd)
+* [Journal NN (Neural Network)](https://www.sciencedirect.com/journal/neural-networks)
+* [Journal EAAI (Engineering Applications of Artificial Intelligence)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+* [Journal IJIS (International Journal of Intelligent Systems)](https://onlinelibrary.wiley.com/journal/ijis)
+* [Journal SEGAN (Sustainable Energy, Grids and Networks)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)
+* [CSAE 2022 (International Conference on Computer Science and Application Engineering)](https://dl.acm.org/conference/csae)
+
+</details>
 
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
@@ -46,7 +57,7 @@ And I assure you that every penny from sponsorships will be used to support impa
 <details open>
 <summary>🏠 Visits</summary>
 <a href="https://github.com/WenjieDu" target="_blank">
-    <img align="left" alt="number of profile visits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+since+May+2022&edge_flat=false">
+    <img align="left" alt="number of profile visits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits+since+May+2022&edge_flat=false">
 </a>
 </details>
 
