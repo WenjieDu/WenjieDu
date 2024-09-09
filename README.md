@@ -27,24 +27,32 @@ It's my honor if my work could help you in any way.
 
 🤔 POTS is ubiquitous in the real world and is vital to AI landing in the industry. However, 
 it still lacks attention from academia and is also in short of a dedicated toolkit even in a community as vast as Python.
-Therefore, to facilitate our researchers and engineers' work related to POTS, I'm leading <a href="https://pypots.com" target="_blank"><img src="https://pypots.com/figs/pypots_logos/PyPOTS/logo_FFBG.svg" width="30px" align="center"/> <b>PyPOTS Research Team</b> (pypots.com)</a>
+Therefore, to facilitate our researchers and engineers' work related to POTS, I'm leading <a href="https://pypots.com"><img src="https://pypots.com/figs/pypots_logos/PyPOTS/logo_FFBG.svg" width="30px" align="center"/> <b>PyPOTS Research</b> (pypots.com)</a>
 to build a comprehensive Python toolkit ecosystem for POTS modeling, including data preprocessing, neural net training, and benchmarking.
 Stars🌟 on our repos are also very welcome of course if you like what we're trying to achieve with PyPOTS.
+
+🤖 Furthermore, to rescue human beings from the tedious and time-consuming work of mass time series analysis, we are building state-of-the-art
+<a href="https://time-series.ai"><img src="https://pypots.com/figs/misc/robot.svg" width="26px" align="center"/> <b>Time-Series AI</b> (time-series.ai)</a>
+for data reconstruction (A.K.A. cleaning, repairing, imputation), data generation for privacy protection, multitask end-to-end learning (classification, forecasting, clustering, anomaly detection), 
+which will be available soon! Stay tuned!
 
 💬 I'm open to questions related to my research and always try my best to help others.
 I love questioning myself and I never stop. If you have questions for discussion or have interests in collaboration,
 please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (<ins>**contact info is at the top**</ins>) 😃
 You can follow me on Google Scholar and GitHub to get notified of our latest publications and open-source projects.
 **Note that I'm very glad to help review papers related to my research, but ONLY for open-source ones with readable code.**
-<details open>
-<summary>I served as a reviewer for 👇</summary>
 
+<details open>
+<summary>👇 I served as a reviewer for </summary>
+
+* [ICLR (International Conference on Learning Representations)](https://iclr.cc)
 * [TKDD (ACM Transactions on Knowledge Discovery from Data)](https://dl.acm.org/journal/tkdd)
 * [Journal NN (Neural Network)](https://www.sciencedirect.com/journal/neural-networks)
 * [Journal EAAI (Engineering Applications of Artificial Intelligence)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 * [Journal IJIS (International Journal of Intelligent Systems)](https://onlinelibrary.wiley.com/journal/ijis)
+* [Journal TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 * [Journal SEGAN (Sustainable Energy, Grids and Networks)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)
-* [CSAE 2022 (International Conference on Computer Science and Application Engineering)](https://dl.acm.org/conference/csae)
+* [CSAE (International Conference on Computer Science and Application Engineering)](https://dl.acm.org/conference/csae)
 
 </details>
 
