@@ -33,8 +33,9 @@ Stars🌟 on our repos are also very welcome of course if you like what we're tr
 
 🤖 Furthermore, to rescue human beings from the tedious and time-consuming work of mass time series analysis, we are building state-of-the-art
 <a href="https://time-series.ai"><img src="https://pypots.com/figs/misc/robot.svg" width="26px" align="center"/> <b>Time-Series AI</b> (time-series.ai)</a>
-for data reconstruction (A.K.A. cleaning, repairing, imputation), data generation for privacy protection, multitask end-to-end learning (classification, forecasting, clustering, anomaly detection), 
-which will be available soon! Stay tuned!
+for time series multitask end-to-end learning (classification, forecasting, clustering, anomaly detection),
+data reconstruction (A.K.A. cleaning, repairing, imputation), and data generation for privacy protection and data augmentation,
+which will be available soon! We also provide consulting services and tailored AI for companies and organizations that need help with time series analysis and applications.
 
 💬 I'm open to questions related to my research and always try my best to help others.
 I love questioning myself and I never stop. If you have questions for discussion or have interests in collaboration,
