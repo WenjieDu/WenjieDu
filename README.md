@@ -49,6 +49,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
 * [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
 * [TKDD (ACM Transactions on Knowledge Discovery from Data)](https://dl.acm.org/journal/tkdd)
+* [Journal ESWA (Expert Systems with Applications)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 * [Journal Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [Journal NN (Neural Network)](https://www.sciencedirect.com/journal/neural-networks)
 * [Journal EAAI (Engineering Applications of Artificial Intelligence)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
