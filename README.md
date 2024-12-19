@@ -55,15 +55,16 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 * [Journal EAAI (Engineering Applications of Artificial Intelligence)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 * [Journal IJIS (International Journal of Intelligent Systems)](https://onlinelibrary.wiley.com/journal/ijis)
 * [Journal TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
-* [Journal SEGAN (Sustainable Energy, Grids and Networks)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)
-* [CSAE (International Conference on Computer Science and Application Engineering)](https://dl.acm.org/conference/csae)
+* [Journal SEGAN (Sustainable Energy, Grids and Networks)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)  
+, etc.
 
 </details>
 
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
 
-😊 Thank you for reading my profile. Feel free to contact me if you'd like to trigger discussions.
+😊 Thank you for reading my profile. Feel free to contact me if you'd like to trigger discussions.  
+🤗 欢迎交流合作
 
 
 <details open>
