@@ -43,7 +43,7 @@ please feel free to drop me an email or ping me on LinkedIn/WeChat/Slack (<ins>*
 You can follow me on Google Scholar and GitHub to get notified of our latest publications and open-source projects.
 **Note that I'm very glad to help review papers related to my research, but ONLY for open-source ones with readable code.**
 
-<details open>
+<details>
 <summary>👇 I served as a reviewer for </summary>
 
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
@@ -64,7 +64,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
 
 😊 Thank you for reading my profile. Feel free to contact me if you'd like to trigger discussions.  
-🤗 欢迎交流合作
+🤗 期待大家的交流合作
 
 
 <details open>
