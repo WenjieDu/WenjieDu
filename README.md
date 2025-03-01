@@ -44,9 +44,11 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 **Note that I'm very glad to help review papers related to my research, but ONLY for open-source ones with readable code.**
 
 <details>
-<summary>👇 I served as a reviewer for </summary>
+<summary>👇 I served as a reviewer for [click to view]</summary>
 
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
+* [SIGKDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)](https://www.kdd.org/)
+* [ACL (Association for Computational Linguistics)](https://www.aclweb.org)
 * [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
 * [TKDD (ACM Transactions on Knowledge Discovery from Data)](https://dl.acm.org/journal/tkdd)
 * [Journal ESWA (Expert Systems with Applications)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
