@@ -65,14 +65,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
 
 😊 Thank you for reading my profile. Feel free to contact me if you'd like to trigger discussions.  
-🤗 期待大家的交流合作
+🤗 期待大家的交流与合作
 
-
-<details open>
-<summary>🏠 Visits</summary>
-<a href="https://github.com/WenjieDu" target="_blank">
-    <img align="left" alt="number of profile visits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWenjieDu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits+since+May+2022&edge_flat=false">
-</a>
-</details>
 
 ![](https://hit.yhype.me/github/profile?user_id=17807970)
