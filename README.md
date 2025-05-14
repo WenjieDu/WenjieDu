@@ -52,7 +52,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 * [TKDD (ACM Transactions on Knowledge Discovery from Data)](https://dl.acm.org/journal/tkdd)
 * [Journal ESWA (Expert Systems with Applications)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 * [Journal Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-* [Journal NN (Neural Network)](https://www.sciencedirect.com/journal/neural-networks)
+* [Journal NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
 * [Journal EAAI (Engineering Applications of Artificial Intelligence)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 * [Journal IJIS (International Journal of Intelligent Systems)](https://onlinelibrary.wiley.com/journal/ijis)
 * [Journal TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
