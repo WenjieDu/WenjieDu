@@ -1,11 +1,8 @@
 **🤙 Contact info:**  
 [![](https://img.shields.io/badge/GoogleScholar-Wenjie_Du-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=j9qvUg0AAAAJ&hl=en) &ensp;
-[![](https://img.shields.io/badge/arXiv-du__w__1-grey?style=flat-square&labelColor=B31B1B&logo=arxiv&logoColor=white)](https://arxiv.org/a/du_w_1.html) &ensp;
 [![](https://img.shields.io/badge/LinkedIn-Wenjie--Du-grey?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenjie-du) &ensp;
-[![](https://img.shields.io/badge/WeChat-__W__DU__-grey?style=flat-square&labelColor=07C160&logo=wechat&logoColor=white)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/contacts/WeChat_WDU.jpg) &ensp;
 [![](https://img.shields.io/badge/Gmail-wenjay.du-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:wenjay.du@gmail.com) &ensp;
-[![](https://img.shields.io/badge/Zoom-schedule_it!-grey?style=flat-square&labelColor=2D8CFF&logo=zoom&logoColor=white)](https://calendly.com/wenjiedu) &ensp;
-[![](https://img.shields.io/badge/Slack-PyPOTS_community-grey?&style=flat-square&labelColor=4A154B&logo=slack&logoColor=white)](https://join.slack.com/t/pypots-org/shared_invite/zt-1gq6ufwsi-p0OZdW~e9UW_IA4_f1OfxA) &ensp;
+[![](https://img.shields.io/badge/WeChat-__W__DU__-grey?style=flat-square&labelColor=07C160&logo=wechat&logoColor=white)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/contacts/WeChat_WDU.jpg) &ensp;
 
 <a href='https://gitstar-ranking.com/WenjieDu' target="_blank">
     <img align='right' width='40%' src='https://github-readme-stats-wenjiedu.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7&rank_icon=percentile&card_width=300'>
@@ -32,7 +29,7 @@ to build a comprehensive Python toolkit ecosystem for POTS modeling, including d
 Stars🌟 on our repos are also very welcome of course if you like what we're trying to achieve with PyPOTS.
 
 🤖 Furthermore, to rescue human beings from the tedious and time-consuming work of mass time series analysis, we are building state-of-the-art
-<a href="https://time-series.ai"><img src="https://pypots.com/figs/misc/robot.svg" width="26px" align="center"/> <b>Time-Series AI</b> (time-series.ai)</a>
+<a href="https://time-series.ai"><img src="https://pypots.com/figs/timeseriesai/logo.png" width="30px" align="center"/> <b>Time-Series AI</b> (time-series.ai)</a>
 for time series multitask end-to-end learning (classification, forecasting, clustering, anomaly detection),
 data reconstruction (A.K.A. cleaning, repairing, imputation), and data generation for privacy protection and data augmentation,
 which will be available soon! We also provide consulting services and tailored AI for companies and organizations that need help with time series analysis and applications.
@@ -46,6 +43,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 <details>
 <summary>👇 I served as a reviewer for <b>[click to view]</b></summary>
 
+* [ICML (International Conference on Machine Learning)](https://icml.cc)
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
 * [SIGKDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)](https://www.kdd.org/)
 * [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
@@ -65,8 +63,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
 
-😊 Thank you for reading my profile. Feel free to contact me if you'd like to trigger discussions.  
-🤗 期待大家的交流与合作
+🤗 Feel free to contact me if you'd like to trigger discussions. 期待大家的交流与合作.
 
 
 ![](https://hit.yhype.me/github/profile?user_id=17807970)
