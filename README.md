@@ -4,15 +4,16 @@
 [![](https://img.shields.io/badge/Gmail-wenjay.du-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:wenjay.du@gmail.com) &ensp;
 [![](https://img.shields.io/badge/WeChat-__W__DU__-grey?style=flat-square&labelColor=07C160&logo=wechat&logoColor=white)](https://github.com/WenjieDu/WenjieDu/blob/main/figs/contacts/WeChat_WDU.jpg) &ensp;
 
-<a href='https://gitstar-ranking.com/WenjieDu' target="_blank">
+<a href='https://gitstar-ranking.com/WenjieDu'>
     <img align='right' width='40%' src='https://github-readme-stats-wenjiedu.vercel.app/api?username=wenjiedu&count_private=true&show_icons=true&theme=onedark&hide_title=true&bg_color=264653&border_color=2a9d8f&icon_color=e76f51&text_color=eae2b7&rank_icon=percentile&card_width=300'>
 </a>
 
 👋 Hi, I'm Wenjie Du (杜文杰 in Chinese). My research majors in modeling time series with machine learning,
 especially partially-observed time series (POTS), namely, incomplete time series with missing values,
-A.K.A. irregularly-sampled time series. I strongly advocate open-source and reproducible research, 
+A.K.A. irregularly-sampled time series. I published several peer-reviewed papers, and they have obtained <a href="https://scholar.google.com/citations?user=j9qvUg0AAAAJ&hl=en"><img src="https://pypots.com/figs/citation_badges/wdu.svg" align="center"/></a> on Google Scholar so far. 
+I strongly advocate open-source and reproducible research, 
 and I always devote myself to building my work into valuable real-world applications.
-Unix philosophy *"Do one thing and do it well"* is also my life philosophy, and I always strive to walk my talk.
+Unix philosophy, *"Do one thing and do it well"*, is also my life philosophy, and I always strive to walk my talk.
 My research goal is to model this non-trivial and kaleidoscopic world with machine learning to make it a better place for everyone.
 It's my honor if my work could help you in any way.
 
@@ -41,7 +42,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 **Note that I'm very glad to help review papers related to my research, but ONLY for open-source ones with readable code.**
 
 <details>
-<summary>👇 I served as a reviewer for <b>[click to view]</b></summary>
+<summary>👇 I served as a reviewer for top venues: <b>[click to view]</b></summary>
 
 * [ICML (International Conference on Machine Learning)](https://icml.cc)
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
@@ -53,9 +54,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 * [Journal Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * [Journal NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks)
 * [Journal EAAI (Engineering Applications of Artificial Intelligence)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-* [Journal IJIS (International Journal of Intelligent Systems)](https://onlinelibrary.wiley.com/journal/ijis)
-* [Journal TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
-* [Journal SEGAN (Sustainable Energy, Grids and Networks)](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)  
+* [Journal TGRS (IEEE Transactions on Geoscience and Remote Sensing)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)  
 , etc.
 
 </details>
