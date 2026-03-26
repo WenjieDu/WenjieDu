@@ -44,9 +44,10 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 <details>
 <summary>👇 I served as a reviewer for top venues: <b>[click to view]</b></summary>
 
+* [NeurIPS (Neural Information Processing Systems)](https://neurips.cc)
 * [ICML (International Conference on Machine Learning)](https://icml.cc)
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
-* [SIGKDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)](https://www.kdd.org/)
+* [SIGKDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)](https://www.kdd.org)
 * [TKDE (IEEE Transactions on Knowledge and Data Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
 * [TKDD (ACM Transactions on Knowledge Discovery from Data)](https://dl.acm.org/journal/tkdd)
 * [Journal ESWA (Expert Systems with Applications)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
@@ -62,7 +63,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 ❤️ If you enjoy what I do, you can [fund me and become a sponsor](https://github.com/sponsors/WenjieDu).
 And I assure you that every penny from sponsorships will be used to support impactful open-science research.
 
-🤗 Feel free to contact me if you'd like to trigger discussions. 期待大家的交流与合作.
+🤗 Feel free to contact me if you'd like to trigger discussions. 欢迎大家的交流合作.
 
 
 ![](https://hit.yhype.me/github/profile?user_id=17807970)
