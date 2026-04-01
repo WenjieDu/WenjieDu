@@ -44,6 +44,7 @@ You can follow me on Google Scholar and GitHub to get notified of our latest pub
 <details>
 <summary>👇 I served as a reviewer for top venues: <b>[click to view]</b></summary>
 
+* [Journal of Machine Learning Research](https://www.jmlr.org)
 * [NeurIPS (Neural Information Processing Systems)](https://neurips.cc)
 * [ICML (International Conference on Machine Learning)](https://icml.cc)
 * [ICLR (International Conference on Learning Representations)](https://iclr.cc)
